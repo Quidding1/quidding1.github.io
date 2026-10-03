@@ -6,5 +6,13 @@
       "package_name": "io.github.quidding1.twa",
       "sha256_cert_fingerprints": ["89:55:36:D3:05:F8:5B:18:7B:45:A0:5D:50:40:E6:9E:D6:D0:DE:6F:2C:D3:55:68:7C:91:EA:FB:9D:69:08:D7"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.quidding1.grades",
+      "sha256_cert_fingerprints": ["FD:7D:16:00:5C:6D:A1:3E:99:DC:89:C1:0E:86:2E:49:8D:94:8B:78:2D:66:58:AB:F3:C6:99:52:A7:AC:26:78"]
+    }
   }
 ]
